@@ -18,6 +18,9 @@
         <module name="cloud-provider-payment8002" />
         <module name="cloud-provider-payment8001" />
         <module name="cloud-consumer-feign-hystrix-order80" />
+        <module name="cloud-stream-rabbitmq-provider8802" />
+        <module name="cloud-stream-rabbitmq-provider8801" />
+        <module name="cloud-stream-rabbitmq-provider8803" />
         <module name="cloud-config-client-3355" />
         <module name="cloud-gateway-gateway9527" />
         <module name="cloud-consumer-feign-order80" />
